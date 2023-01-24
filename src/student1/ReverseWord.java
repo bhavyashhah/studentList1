@@ -5,9 +5,7 @@
 package student1;
 
 import java.util.Scanner;
-/*author Bhavya
-* this comments should be used to test roll back
-*/
+/*author Bhavya*/
 public class ReverseWord {
    public static void main(String[] args){
        /*char[] myWord = new char[7];
